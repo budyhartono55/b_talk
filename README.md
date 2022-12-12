@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, This is my first experience used ruby for development app.
+this is my first app namely b_talk.
+I aware, there are a lot of weakness about this app, but I really grateful because I'm successfully finished this challenge, and I assume this is my firt step to learn more how to build app with ruby on rails well in the next project.
 
-Things you may want to cover:
+# note : this project only able to run on desktop mode/using laptop.
 
-- Ruby version
+---
 
-- System dependencies
+# Tools:
 
-- Configuration
+- Database: PostgreSQL
+- Basic FE Framework : Bootstrap 4.0
+- Programming Language : Ruby
+- Host : render.com
 
-- Database creation
+---
 
-- Database initialization
+# Domain
 
-- How to run the test suite
+- Link : https://b-talk-rails.onrender.com
 
-- Services (job queues, cache servers, search engines, etc.)
+---
 
-- Deployment instructions
-
-- ...
+Regards,
+Budi Hartono
