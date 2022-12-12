@@ -13,7 +13,7 @@ I aware, there are a lot of weakness about this app, but I really grateful becau
 - Database: PostgreSQL
 - Basic FE Framework : Bootstrap 4.0
 - Programming Language : Ruby
-- Host : render.com
+- Cloud Hosting : https://render.com
 
 ---
 
