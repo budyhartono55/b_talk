@@ -4,7 +4,7 @@ Hello, This is my first experience using ruby for development app. this is my fi
 # How to use the app
 - Sign Up with your email.
 - Login
-- you can make room/make rivate chat with other user
+- you can make room/make private chat with other user
 - Note: if the step error YOU CAN REFRESH YOUR WEB BROWSER!
 
 # Tools:
